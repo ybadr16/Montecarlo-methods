@@ -4,7 +4,7 @@ Welcome to the Monte Carlo Methods Program repository! This repository is design
 
 <div align="center">
   <a href="https://www.youtube.com/watch?v=qgSrGIGj5KM&t">
-    <img src="https://img.youtube.com/vi/qgSrGIGj5KM&t/0.jpg" alt="Monte Carlo Methods Program Video">
+    <img src="https://i.ytimg.com/vi/qgSrGIGj5KM/maxresdefault.jpg" alt="Monte Carlo Methods Program Video">
   </a>
 </div>
 
