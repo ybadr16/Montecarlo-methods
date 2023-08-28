@@ -3,8 +3,8 @@
 Welcome to the Monte Carlo Methods Program repository! This repository is designed to contain all the code used in the corresponding YouTube program on Monte Carlo methods.
 
 <div align="center">
-  <a href="https://www.youtube.com/watch?v=kpIW8TKdPqg">
-    <img src="https://img.youtube.com/vi/kpIW8TKdPqg/0.jpg" alt="Monte Carlo Methods Program Video">
+  <a href="https://www.youtube.com/watch?v=qgSrGIGj5KM&t">
+    <img src="https://img.youtube.com/vi/qgSrGIGj5KM&t/0.jpg" alt="Monte Carlo Methods Program Video">
   </a>
 </div>
 
